@@ -8,7 +8,7 @@ I have created this software to fulfill the requirements of the W01-Prove: Creat
 
 # Development Environment
 
-I VSCode to develop this software.
+I used VSCode to develop this software.
 
 Python is the language for this software.
 
